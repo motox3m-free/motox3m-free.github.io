@@ -7194,6 +7194,15 @@ video {
     margin-bottom: 4px
 }
 
+.sub_description img:not([class]) {
+	max-width: 100% !important;
+    max-height: none !important;
+    width: auto !important;
+    height: auto !important;
+    margin: 10px auto;
+    display: block;
+}
+
 .page-content table:not([class]),
 .sub_description table:not([class]) {
     width: 100%;
