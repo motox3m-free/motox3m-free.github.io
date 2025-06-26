@@ -16,7 +16,7 @@
     },
     {
         "name": "Moto X3M Winter",
-        "slug": "moto-x3m-4-winter",
+        "slug": "moto-x3m-winter",
         "image": "/cache/data/image/game/moto-x3m-4-winter/moto-x3m-4-winter-1-m186x186.webp"
     },
     {
@@ -30,11 +30,6 @@
         "image": "/cache/data/image/game/vex-x3m-2/vex-x3m-2-1-m186x186.webp"
     },
     {
-        "name": "Moto X3M Dead Ahead",
-        "slug": "moto-x3m-dead-ahead",
-        "image": "/cache/data/image/game/moto-x3m-dead-ahead/moto-x3m-dead-ahead-1-m186x186.webp"
-    },
-    {
         "name": "Moto X3M 2",
         "slug": "moto-x3m-2",
         "image": "/cache/data/image/game/moto-x3m-2/moto-x3m-2-m186x186.webp"
@@ -43,5 +38,10 @@
         "name": "Moto X3M 3",
         "slug": "moto-x3m-3",
         "image": "/cache/data/image/game/moto-x3m-3/moto-x3m-3-m186x186.webp"
+    },
+    {
+        "name": "Traffic Road",
+        "slug": "traffic-road",
+        "image": "/cache/data/image/game/traffic-road/traffic-road-game-copy-m186x186.webp"
     }
 ]
